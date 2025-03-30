@@ -141,6 +141,7 @@ secure.surveymonkey.com
 services.sonarr.tv
 skyhook.sonarr.tv
 spclient.wg.spotify.com
+wl.spotify.com
 ssl.p.jwpcdn.com
 staging.plex.tv
 status.plex.tv
